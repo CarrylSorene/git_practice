@@ -1,0 +1,2 @@
+Hello, I’m a file.
+Now I have two lines in me.
